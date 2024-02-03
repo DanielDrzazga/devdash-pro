@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "DevDash Pro",
+    "version": "0.0.1",
+    "description": "DevToolbox Plus- Provides comprehensive support for a modern development environment, enabling quick access to application versions, relevant links, a built-in search. An effective tool for efficient project development.",
+    "author": "Daniel Drzazga",
+    "icons": {
+      "64": "icon-64.png"
+    },
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+  }
